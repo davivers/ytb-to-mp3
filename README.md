@@ -1,6 +1,29 @@
-# ytb-to-mp3
-Python Script to download youtube videos and convert it to mp3 automatically
+# Ytb-to-mp3
 
-Windows > Just have Python downloaded and that's it.
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
-Linux > git clone > pip install -r requirements.txt
+
+
+- Written in Python
+
+## Features
+
+- Download youtube videos and convert it to mp3 automatically
+
+## Tech
+
+
+- [Python] 
+
+
+## Installation
+
+Ytb-to-mp3
+
+Requires [Python 3.10]
+
+Install the dependencies.
+
+```sh
+pip install -r requirements.txt
+```
