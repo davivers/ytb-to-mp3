@@ -14,7 +14,7 @@
 
 
 - [Python] 
-
+> Pafy library has a bug. You can either use an older version of it (pip install youtube-dl==2020.12.2) or comment lines 53 and 54 in the backend_youtube_dl.py file in pafy packages
 
 ## Installation
 
