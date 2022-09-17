@@ -18,8 +18,6 @@
 
 ## Installation
 
-Ytb-to-mp3
-
 Requires [Python 3.10]
 
 Install the dependencies.
